@@ -14,6 +14,8 @@ sequence features.
 
 The inpatient may go directly at the [INSTALL](https://github.com/frankMusacchia/Annocript/blob/master/GUIDE/INSTALL.md) page. Then, you should visit the tutorial at [TUTORIAL](https://github.com/frankMusacchia/Annocript/blob/master/GUIDE/TUTORIAL.md) to learn how to use *Annocript*.
 
+Please Like our facebook page to be always updated (https://www.facebook.com/annocript)
+or follow me on twitter (https://twitter.com/frankmusacchia)!
 ## Mission
 
 *Annocript* is a highly configurable tool to annotate and analyze transcriptomes. After the transcriptome annotation you may want to run an expression analysis. From the *Annocript* 2.0 we released a perl script to seamlessly perform the pipeline for the differential expression analysis using the output from *Annocript*. The package is called DEA (Differential Expression analysis with *Annocript*). It currently uses edgeR (Robinson *et al*, 2010) starting from the raw counts table. You can find it at https://github.com/frankMusacchia/DEA.
